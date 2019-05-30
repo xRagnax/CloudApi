@@ -1,0 +1,14 @@
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.deps.json
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.runtimeconfig.json
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.runtimeconfig.dev.json
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.dll
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.pdb
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.csprojAssemblyReference.cache
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.csproj.CoreCompileInputs.cache
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.RazorAssemblyInfo.cache
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.RazorAssemblyInfo.cs
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.AssemblyInfoInputs.cache
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.AssemblyInfo.cs
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.RazorTargetAssemblyInfo.cache
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.dll
+D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.pdb
