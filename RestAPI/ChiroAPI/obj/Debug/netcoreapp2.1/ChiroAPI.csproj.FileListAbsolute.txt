@@ -12,3 +12,17 @@ D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI
 D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.RazorTargetAssemblyInfo.cache
 D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.dll
 D:\AP\2EA1\Semester2\CloudAPi\ChiroAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.pdb
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.deps.json
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.runtimeconfig.json
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.runtimeconfig.dev.json
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.dll
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\bin\Debug\netcoreapp2.1\ChiroAPI.pdb
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.csprojAssemblyReference.cache
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.csproj.CoreCompileInputs.cache
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.RazorAssemblyInfo.cache
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.RazorAssemblyInfo.cs
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.AssemblyInfoInputs.cache
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.AssemblyInfo.cs
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.RazorTargetAssemblyInfo.cache
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.dll
+D:\pieter\AP\2EA1\Semester2\CloudAPI\CloudApi\RestAPI\ChiroAPI\obj\Debug\netcoreapp2.1\ChiroAPI.pdb

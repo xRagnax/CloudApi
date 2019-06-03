@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\ChiroAPI.csproj",
+      "projectUniqueName": "D:\\pieter\\AP\\2EA1\\Semester2\\CloudAPI\\CloudApi\\RestAPI\\ChiroAPI\\ChiroAPI.csproj",
       "projectName": "ChiroAPI",
-      "projectPath": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\ChiroAPI.csproj",
+      "projectPath": "D:\\pieter\\AP\\2EA1\\Semester2\\CloudAPI\\CloudApi\\RestAPI\\ChiroAPI\\ChiroAPI.csproj",
       "packagesPath": "C:\\Users\\piete\\.nuget\\packages\\",
-      "outputPath": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\obj\\",
+      "outputPath": "D:\\pieter\\AP\\2EA1\\Semester2\\CloudAPI\\CloudApi\\RestAPI\\ChiroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12584,6 +12584,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

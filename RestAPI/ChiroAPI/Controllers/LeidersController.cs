@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ChiroAPI.Data;
 using ChiroAPI.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ChiroAPI.Controllers
 {
@@ -75,6 +76,7 @@ namespace ChiroAPI.Controllers
 
 
         // GET: api/Leiders/5
+        [Authorize]
         [Route("{id:int}")]
         [HttpGet]
         public ActionResult<Leiding> getLeiders(int id)
