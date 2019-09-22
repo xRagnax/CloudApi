@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\ChiroAPI.csproj": {}
+    "D:\\AP\\2EA1\\Semester2\\CloudAPi\\CloudAPI\\RestAPI\\ChiroAPI\\ChiroAPI.csproj": {}
   },
   "projects": {
-    "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\ChiroAPI.csproj": {
+    "D:\\AP\\2EA1\\Semester2\\CloudAPi\\CloudAPI\\RestAPI\\ChiroAPI\\ChiroAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\ChiroAPI.csproj",
+        "projectUniqueName": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\CloudAPI\\RestAPI\\ChiroAPI\\ChiroAPI.csproj",
         "projectName": "ChiroAPI",
-        "projectPath": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\ChiroAPI.csproj",
+        "projectPath": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\CloudAPI\\RestAPI\\ChiroAPI\\ChiroAPI.csproj",
         "packagesPath": "C:\\Users\\piete\\.nuget\\packages\\",
-        "outputPath": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\ChiroAPI\\ChiroAPI\\obj\\",
+        "outputPath": "D:\\AP\\2EA1\\Semester2\\CloudAPi\\CloudAPI\\RestAPI\\ChiroAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
