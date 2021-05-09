@@ -26,7 +26,7 @@
     "primeng": "6.1.5",
     "primeicons": "1.0.0",
     "primeflex": "1.0.0-rc.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "@types/lodash": "4.14.119"
   },
   "devDependencies": {
